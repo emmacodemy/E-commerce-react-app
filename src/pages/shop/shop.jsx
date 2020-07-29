@@ -4,7 +4,6 @@ import CollectionPreview from "../../components/collection-preview/collection-pr
 
 const ShopPage = () => {
   const [collections, setCollections] = useState(SHOP_DATA);
-  console.log(collections);
 
   return (
     <div className="shop-page">

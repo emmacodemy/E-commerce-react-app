@@ -7,3 +7,9 @@ a {
   text-decoration: none;
   color: black;
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
