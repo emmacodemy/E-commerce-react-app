@@ -37,7 +37,7 @@ const Directory = () => {
       linkUrl: "shop/mens",
     },
   ];
-  const [menuItem, _] = useState(sections);
+  const [menuItem] = useState(sections);
 
   return (
     <div className="directory-menu">
