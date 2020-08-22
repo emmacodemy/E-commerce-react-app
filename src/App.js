@@ -73,6 +73,3 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
-
-// 4242 4242 4242 4242
-// 01/20 CW 123
